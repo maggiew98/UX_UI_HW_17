@@ -1,0 +1,59 @@
+.inline-block {
+display: inline-block;
+vertical-align: top;
+}
+
+.logo {
+width: 23%;
+padding: 1%;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav {
+    width: 73%;
+    padding: 1%;
+}
+
+
+.heroImg {
+height: 600px;
+padding: 25px;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.footerContent {
+    display: flex; 
+    align-items:   ;
+    justify-content: ;
+    Flex-direction:  column ;
+    text-align:  ;
+    }
+
+    .listSocials {
+    list-style: none;
+    display: flex;
+    align-items:   ;
+    justify-content:   ;
+    margin:   ;
+    }
+    
+ footer {
+    position: absolute ;
+    bottom: 0;
+    left: 0;
+    right: 0; 
+    background: darkviolet:
+    height: auto;
+    width: 100w;
+    font-family: “open sans”; 
+    padding: 40px
+    color: white;
+    
+    }
